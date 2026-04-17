@@ -1,4 +1,4 @@
-# G7_SC404_MN_CasoEstudio2
+# SISTEMA-DE-GESTION-ACADEMICA-SQL
 
 ## Descripción
 
